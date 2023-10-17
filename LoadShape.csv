@@ -1,0 +1,7 @@
+name,n_pts,interval,mean,std_dev,use_actual
+k21_a,1,1,1,1,false
+k21_b,1,1,1,1,false
+k21_c,1,1,1,1,false
+k21_abc,1,1,1,1,false
+aggloadprofilek22,1,1,1,1,false
+pv_1mw,1,1,1,1,false

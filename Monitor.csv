@@ -1,0 +1,9 @@
+name,enabled,element,terminal,value,sequence,magnitude,pos_seq,residual,p_polar
+subvi,true,transformer.t2,2,voltage_current,false,false,false,false,true
+subpq,true,transformer.t2,1,powers,false,false,true,false,false
+feederpq,true,line.k21_feeder,1,powers,false,false,true,false,false
+tap1,true,transformer.t2,2,tap_position,false,false,false,false,true
+cap1,true,capacitor.10548920-1,1,powers,false,true,false,false,true
+voltagecap1,true,capacitor.10548920-1,1,voltage_current,false,false,false,false,true
+voltagetap1,true,transformer.t2,2,voltage_current,false,false,false,false,true
+highestimpedancebus,true,line.ug_10540314,2,voltage_current,false,false,false,false,true

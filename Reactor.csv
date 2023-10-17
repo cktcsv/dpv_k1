@@ -1,0 +1,2 @@
+name,enabled,n_phases,n_conds,base_freq,terminal1,terminal2,connection,spec_type,kvar,kv,r,x
+t2_neutral,true,1,1,60,k_lsb.4,,wye,z,100,12.47,0
